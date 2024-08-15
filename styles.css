@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header {
+  margin: 20px;
+}
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header li {
+  text-decoration: none;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.main {
+  margin: 40px;
+}
+
+.h1stream {
+  margin-bottom: 20px;
+}
